@@ -36,3 +36,9 @@ h4.title{
 h4{
 	margin-top: 0px;
 }
+
+@media only screen and (max-width: 776px) {
+  h3.title{
+	  font-size: 1.25em;
+}
+}
