@@ -43,3 +43,8 @@ h4{
 	  padding-top: 20px;
 }
 }
+
+.page-header {
+    min-height: 80vh;
+    
+}
